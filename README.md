@@ -82,14 +82,17 @@ The project was developed as part of the Data Warehousing and Data Mining course
 
 ## Screenshots
 
-### Model Evaluation Results
-![Results](images/results.png)
-
 ### Decision Tree Output
-![Decision Tree](images/decision-tree.png)
+<img width="453" height="272" alt="image" src="https://github.com/user-attachments/assets/e480eda9-3287-40a0-9957-54ec3865a6ef" />
+
 
 ### KNN Output
-![KNN](images/knn-output.png)
+<img width="367" height="311" alt="image" src="https://github.com/user-attachments/assets/8be2879f-9c7e-44a6-8312-d79a5b027941" />
+
+
+### Model Evaluation Results
+<img width="401" height="642" alt="image" src="https://github.com/user-attachments/assets/104d81f5-8b19-421e-b30d-3efbfe200ea0" />
+
 
 ---
 
